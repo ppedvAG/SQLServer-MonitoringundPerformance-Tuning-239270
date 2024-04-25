@@ -30,7 +30,7 @@ IX Wartung, Auslagerungen beim Sortieren etwa
 Trenne Daten von Log und am besten eig HDDs
 
 Aber auch : 
-Anzahl der DAtendateien = Anzahl der Kerne  max 8 
+Anzahl der Datendateien = Anzahl der Kerne  max 8 
 Traceflags 1117 + 1118
 
 
