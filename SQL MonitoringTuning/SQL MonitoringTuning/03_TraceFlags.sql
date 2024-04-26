@@ -21,6 +21,8 @@ dbcc tracestatus (-1)--welche sind global aktiviert
 
 --1118 1117 seit SQL 2016 Eigenschaft der DB
 dbcc tracestatus (1118, 1117)-- aktiviert?
+
+
 dbcc traceon (3226,-1) --setzen--> Only Successful Backups in History
 
 3042 so that backups don’t write out the full size before being compressed at the end 
